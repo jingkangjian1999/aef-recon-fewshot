@@ -9,8 +9,8 @@ This package reproduces the core experiment pipeline:
 - linear AEF mapping comparison on the 2023 fitting dataset
 - reconstruction-model and retained-dimension selection for same-year evaluation
 - baseline-specific `k` selection
-- same-year baseline comparison at budget `100`
-- `2023 -> 2024` transfer baseline comparison at budget `100`
+- same-year baseline comparison at budget `50` `100`
+- `2023 -> 2024` transfer baseline comparison at budget `50` `100`
 - same-year sample-budget ablation (`10, 20, 50, 100, 200`)
 - transfer sample-budget ablation (`10, 20, 50, 100, 200`)
 - transfer-side model-and-dimension supplementary comparison
